@@ -112,4 +112,6 @@
 
 
 
+컴퓨터 작동 원리
 
+https://www.youtube.com/watch?v=q7Z42-FCURk
